@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/graph-test)
+![App Brewery Banner](Documentation/graph-test.png)
 
 #  Quizzler
 
